@@ -4,6 +4,8 @@ logstash_formatter: JSON logs for logstash
 This library is provided to allow standard python logging to output log data
 as json objects ready to be shipped out to logstash.
 
+This project has been originally open sourced by `exoscale <https://www.exoscale.ch/>`_ (which is a great hosting service btw), thanks to them.
+
 Installing
 ----------
 Pip (`PyPI`_)::
